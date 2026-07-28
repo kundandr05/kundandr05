@@ -13,25 +13,26 @@ AI & ML Engineering Student | Backend Developer | Builder
 ---
 
 ## 🛠 Tech Stack
-- Programming: Python, C, Java  
-- AI/ML: Machine Learning, Agentic AI, Multi-Agent Systems  
-- Backend: FastAPI, SQL, SQLite  
-- Cloud: AWS, Azure, IBM Cloud  
+- Programming: Python, C, Java, TypeScript  
+- AI/ML: Machine Learning, Agentic AI, Multi-Agent Systems, LLMs  
+- Web Dev & Backend: Next.js, React, FastAPI, SQL, SQLite  
+- Cloud & Deployment: AWS, Azure, IBM Cloud, Vercel  
 
 ---
 
 ## 📌 Projects
+- 🔹 Learning Management System (LMS)
 - 🔹 Agentic AI Tournament Management System  
-- 🔹 ERP-Based Student Management System (Innovathon 2026)  
+- 🔹 Zeno AI Chatbot
 - 🔹 Personal Portfolio Website  
 
 ---
 
 ## 🌐 Portfolio
-[https://kundandr-portfolio.vercel.app/]
+https://kundandr-portfolio.vercel.app/
 
 ---
 
 ## 📫 Contact Me
 - LinkedIn: https://linkedin.com/in/kundan-d-r-914274310  
-- Email: kundandr05@gmail.com  
+- Email: kundandr05@gmail.com
