@@ -28,7 +28,7 @@ AI & ML Engineering Student | Backend Developer | Builder
 ---
 
 ## 🌐 Portfolio
-👉 Add your deployed portfolio link here  
+[👉 Add your deployed portfolio link here ](https://kundandr-portfolio.vercel.app/) 
 
 ---
 
