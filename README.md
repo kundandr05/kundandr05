@@ -35,7 +35,7 @@ I am an AI & ML undergraduate at Maharaja Institute of Technology, Mysuru, deepl
 | Project | Description | Link |
 |---------|-------------|------|
 | **[Agentic AI Tournament Manager](https://kundandr-portfolio.vercel.app/projects/agentic-ai-tournament-management-system)** | Autonomous multi-agent tournament management platform orchestrating scheduling and workflows. | [View Details](https://kundandr-portfolio.vercel.app/projects/agentic-ai-tournament-management-system) |
-| **[Zeno AI](https://github.com/kundandr05/Zeno_chatbot)** | AI-powered chatbot backend built using FastAPI and LLM integration for conversational assistance. | [View Code](https://github.com/kundandr05/Zeno_chatbot) |
+| **[Zeno AI: Multi-Modal Assistant](https://zeno-chatbot-k46i.onrender.com/)** | Premium UI/UX AI assistant with dynamic LLM routing (Perplexity & Gemini) for real-time web and vision analysis. | [Live Demo](https://zeno-chatbot-k46i.onrender.com/) • [Code](https://github.com/kundandr05/Zeno_chatbot) |
 | **[Ollama Local Chatbot](https://github.com/kundandr05/ollama-chatbot)** | Privacy-focused local AI interface connecting directly to Ollama models with live web search. | [View Code](https://github.com/kundandr05/ollama-chatbot) |
 | **[Krishna Leela Chatbot](https://github.com/kundandr05/KrishnaLeela)** | Multilingual storytelling AI powered by Google Gemini, built with pure Vanilla JS and HTML/CSS. | [View Demo](https://krishna-leela.vercel.app/) |
 
