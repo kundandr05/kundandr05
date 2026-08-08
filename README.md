@@ -23,6 +23,7 @@
 
 I am an AI & ML undergraduate at Maharaja Institute of Technology, Mysuru, deeply passionate about Agentic AI, Large Language Models, and scalable backend engineering. When I'm not writing Python or tuning LLMs, I'm researching and writing books on productivity and modern computational mindsets.
 
+- 💼 **Experience**: Incoming Software Engineering Intern (Incubation) at **WizzyBox Private Limited** (WCAP).
 - 🤖 **Current Focus**: Agentic AI, FastAPI, multi-agent coordination, and RAG pipelines.
 - 🎓 **Research**: Published author in IJCRT on *Tournament Management Agent Using Agentic Artificial Intelligence*.
 - 📚 **Author**: Published 2 books on Amazon KDP regarding productivity and psychology.
